@@ -2,8 +2,6 @@
 
 ### Hi there 👋
 
-**drewkybrown/drewkybrown** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 <!-- TABLE OF CONTENTS -->
 <details>
   <summary>Table of Contents</summary>
